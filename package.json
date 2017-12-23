@@ -1,7 +1,7 @@
 {
   "name": "@sendgrid/mail",
   "description": "SendGrid NodeJS mail service",
-  "version": "6.1.5",
+  "version": "6.1.4",
   "author": "SendGrid <dx@sendgrid.com> (sendgrid.com)",
   "contributors": [
     "Kyle Partridge <kyle.partridge@sendgrid.com>",
