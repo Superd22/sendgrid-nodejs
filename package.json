@@ -27,7 +27,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@sendgrid/client": "^6.1.4",
+    "@sendgrid/client": "git://github.com/Superd22/sendgrid-nodejs.git#ts-fix-client",
     "@sendgrid/helpers": "^6.1.4"
   },
   "tags": [
